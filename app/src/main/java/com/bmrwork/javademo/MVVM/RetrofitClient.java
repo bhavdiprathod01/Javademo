@@ -1,4 +1,4 @@
-package com.bmrwork.javademo;
+package com.bmrwork.javademo.MVVM;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

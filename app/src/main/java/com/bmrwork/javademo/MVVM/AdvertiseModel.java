@@ -1,6 +1,5 @@
-package com.bmrwork.javademo;
+package com.bmrwork.javademo.MVVM;
 
-import com.google.gson.annotations.SerializedName;
 public class AdvertiseModel {
     private String name;
     private String thumb_image;

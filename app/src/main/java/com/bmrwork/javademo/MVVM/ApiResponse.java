@@ -1,6 +1,5 @@
-package com.bmrwork.javademo;
+package com.bmrwork.javademo.MVVM;
 
-import com.google.gson.annotations.SerializedName;
 import java.util.List;
 public class ApiResponse {
     private int status;

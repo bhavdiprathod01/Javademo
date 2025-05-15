@@ -1,6 +1,4 @@
-package com.bmrwork.javademo;
-
-import java.util.List;
+package com.bmrwork.javademo.MVVM;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,8 +1,13 @@
-package com.bmrwork.javademo;
+package com.bmrwork.javademo.MVVM;
 
 import android.app.Application;
-import android.util.Log;
+
 import androidx.lifecycle.LiveData;
+
+import com.bmrwork.javademo.DB.AdvertiseEntity;
+import com.bmrwork.javademo.DB.AdvertiseDao;
+import com.bmrwork.javademo.DB.AppDatabase;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Executor;

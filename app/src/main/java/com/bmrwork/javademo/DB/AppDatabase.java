@@ -1,4 +1,4 @@
-package com.bmrwork.javademo;
+package com.bmrwork.javademo.DB;
 
 import android.content.Context;
 

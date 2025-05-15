@@ -1,4 +1,4 @@
-package com.bmrwork.javademo;
+package com.bmrwork.javademo.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,6 +12,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.bmrwork.javademo.DB.AdvertiseEntity;
+import com.bmrwork.javademo.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
